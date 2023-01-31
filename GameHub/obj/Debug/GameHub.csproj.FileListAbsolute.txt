@@ -1,0 +1,7 @@
+C:\Users\xande\Documents\VS Programs\GameHub\GameHub\bin\Debug\GameHub.exe.config
+C:\Users\xande\Documents\VS Programs\GameHub\GameHub\bin\Debug\GameHub.exe
+C:\Users\xande\Documents\VS Programs\GameHub\GameHub\bin\Debug\GameHub.pdb
+C:\Users\xande\Documents\VS Programs\GameHub\GameHub\obj\Debug\GameHub.csprojAssemblyReference.cache
+C:\Users\xande\Documents\VS Programs\GameHub\GameHub\obj\Debug\GameHub.csproj.CoreCompileInputs.cache
+C:\Users\xande\Documents\VS Programs\GameHub\GameHub\obj\Debug\GameHub.exe
+C:\Users\xande\Documents\VS Programs\GameHub\GameHub\obj\Debug\GameHub.pdb
